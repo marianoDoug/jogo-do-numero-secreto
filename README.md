@@ -1,4 +1,5 @@
 <h1 align = "center"> JOGO DO NÚMERO SECRETO </h1>
+
 ![capa-jogo-numero-secreto](https://github.com/user-attachments/assets/6d00c430-dd5b-4fc4-8c4e-2dba125a85a7);
 
 O projeto trata-se do desenvolvimento de um Jogo do Número Secreto, onde aprendemos
@@ -28,4 +29,6 @@ Eis o início de uma linda história no mundo da programação.
 
 # Autores
 
-| [Douglas Mariano](https://github.com/marianoDoug) | 
+![Douglas Mariano](douglasMariano.jpg)
+
+| [Meu GitHub](https://github.com/marianoDoug) | 
