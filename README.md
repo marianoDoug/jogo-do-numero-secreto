@@ -1,5 +1,5 @@
 <h1 align = "center"> JOGO DO NÚMERO SECRETO </h1>
-![Imagem inicial da tela do jogo no navegador](img/capa-jogo-numero-secreto.png);
+![capa-jogo-numero-secreto](https://github.com/user-attachments/assets/6d00c430-dd5b-4fc4-8c4e-2dba125a85a7);
 
 O projeto trata-se do desenvolvimento de um Jogo do Número Secreto, onde aprendemos
 a desenvolver um jogo na Alura, plataforma de tecnologia, onde optei por assinar para
