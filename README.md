@@ -1,5 +1,4 @@
 <h1 align = "center"> JOGO DO NÚMERO SECRETO </h1>
-
 ![capa-jogo-numero-secreto](https://github.com/user-attachments/assets/6d00c430-dd5b-4fc4-8c4e-2dba125a85a7);
 
 O projeto trata-se do desenvolvimento de um Jogo do Número Secreto, onde aprendemos
@@ -13,7 +12,6 @@ Eis o início de uma linda história no mundo da programação.
 <h3 align="center"> 
     :computer: Projeto em Desenvolvimento :computer:
 </h3>
-
 # :computer: :hammer: Funcionalidades do projeto
 
 - `Funcionalidade 1`: utilização de conceitos básicos e iníciais de javascript
