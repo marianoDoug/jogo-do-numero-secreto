@@ -1,4 +1,5 @@
 <h1 align = "center"> JOGO DO NÚMERO SECRETO </h1>
+
 ![capa-jogo-numero-secreto](https://github.com/user-attachments/assets/6d00c430-dd5b-4fc4-8c4e-2dba125a85a7);
 
 O projeto trata-se do desenvolvimento de um Jogo do Número Secreto, onde aprendemos
@@ -9,9 +10,9 @@ minha jornada.
 
 Eis o início de uma linda história no mundo da programação.
 
-<h4 align="center"> 
+<h3 align="center"> 
     :computer: Projeto em Desenvolvimento :computer:
-</h4>
+</h3>
 
 # :computer: :hammer: Funcionalidades do projeto
 
